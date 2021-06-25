@@ -141,3 +141,14 @@ cython_debug/
 # static files generated from Django application using `collectstatic`
 media
 static
+.DS_Store
+.idea/deployment.xml
+.idea/devign.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+data/.DS_Store
+joern/.DS_Store
+src/.DS_Store
